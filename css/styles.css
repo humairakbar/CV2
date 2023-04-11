@@ -1,0 +1,171 @@
+body{
+    color: #40514E;
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    background-color: #BACDDB;
+}
+
+h1{
+    margin: 50px auto 0px auto;
+    font-family: 'Sacramento', cursive;
+    font-size: 5rem;
+    color: #D27685;
+    
+    
+}
+h2{
+    margin-top: 10px;
+    padding-bottom: 10px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    font-weight: normal;
+    color: #D27685;
+}
+h3{
+    color: #11999E;
+}
+.btn{
+    
+    text-decoration: none;
+    color: #fff;
+}
+
+.btn1:hover{
+    background: linear-gradient(#30e3cb, #2bc4ad);
+}
+
+hr{
+    border-style: dotted none none;
+    border-color: #EAF6F6;
+    border-width: 5px;
+    width: 5%;
+    margin: 100px auto;
+}
+p{
+    line-height: 2;
+}
+.top-cloud{
+    height: 300px;
+    width: 400px;
+    display: inline-block;
+    position: absolute;
+    right: 50px;
+    top: 50px;
+
+}
+.bottom-cloud{
+    height: 300px;
+    width: 400px;
+    display: inline-block;
+    position: absolute;
+    left: 50px;
+    top: 50px;
+}
+.mountain{
+    
+    width: 100%;    
+}
+.top-container{
+    background-color: #B9EDDD;
+    position: relative;
+    padding-top: 100px;
+    
+    
+    
+}
+.middle-container{
+    
+    margin: 100px 0;
+    
+    
+    
+    
+}
+.bottom-container{
+    background-color: #66BFBF;
+    position: relative;
+    padding: 40px 0 20px;
+    
+    
+    
+    
+}
+
+.profile{
+    
+    
+    width: 50%;
+    margin: auto;
+}
+.skills{
+    margin-bottom: 150px;
+}
+
+.intro{
+    width: 60%;
+    margin: auto;
+}
+
+.humaira-img{
+    height: 150px;
+    margin-bottom: 20px;
+}
+
+
+
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    
+}
+.skill1{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+.skill2{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+.contact-me{
+    
+    width: 50%;
+    margin: auto;
+}
+.contact-msg{
+    width: 60%;
+    margin: 40px auto 60px;
+}
+.btn1{
+    border-radius: 8px;
+    border: 0;
+    padding: 10px 20px;
+    color: #fff;
+    font-size: 1rem;
+    font-weight: bold;
+    
+    background: linear-gradient(#11cdd4, #11999e);
+}
+
+.footer-link{
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+
+.footer-link:hover{
+    color: #ffff;
+}
+
+.copyright{
+    color: #ffffffff;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 0.75rem;
+    padding-top: 20px;
+}
+
+
